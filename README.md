@@ -1,2 +1,2 @@
-# fp_define
-Short and expressive way to define function at Java
+# Short and expressive way to define function at Java
+Alternative ways to define function at Java
